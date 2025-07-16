@@ -6,5 +6,6 @@ function setup() {
 
 function draw() {
   fill("skyblue")
-  stroke()
+  stroke("pink")
+  st
 }
