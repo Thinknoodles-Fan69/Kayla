@@ -1,6 +1,6 @@
 let ball;
 let ball2;
-
+let box;
 
 
 
@@ -20,6 +20,8 @@ function setup() {
   ball2.y = 300;
   ball2.diameter = 100;
   ball2.color = "brown";
+
+  
 
 
 }
