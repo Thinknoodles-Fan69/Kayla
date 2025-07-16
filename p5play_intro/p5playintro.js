@@ -7,5 +7,6 @@ function setup() {
 function draw() {
   fill("skyblue")
   stroke("pink")
-  strokeWeight
+  strokeWeight(10)
+  
 }
