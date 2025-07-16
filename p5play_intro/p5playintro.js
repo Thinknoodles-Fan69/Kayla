@@ -7,11 +7,19 @@ function setup() {
   // Set up the canvas
   new Canvas(800, 400);
   background(250); //background color
+  
   ball = new Sprite();
   ball.x = 100
   ball.y = 200
   ball.diameter = 100;
   ball.color = brown
+  
+  ball = new Sprite();
+  ball.x = 100
+  ball.y = 200
+  ball.diameter = 100;
+  ball.color = brown
+
 
   
 }
