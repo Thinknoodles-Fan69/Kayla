@@ -26,7 +26,7 @@ function setup() {
   box.y = 250;
   box.w = 50;
   box.h = 50;
-  
+  box.color = "yellow";
 
 
 }
