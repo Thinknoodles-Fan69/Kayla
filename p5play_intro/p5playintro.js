@@ -22,7 +22,7 @@ function setup() {
   ball2.color = "brown";
 
   box = new Sprite();
-  box.x = 100;
+  box.x = 200;
   box.y = 250;
   box.w = 100;
   box.h = 50;
