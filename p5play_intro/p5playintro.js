@@ -8,5 +8,6 @@ function draw() {
   fill("skyblue")
   stroke("pink")
   strokeWeight(10)
-  
+
+  circle
 }
