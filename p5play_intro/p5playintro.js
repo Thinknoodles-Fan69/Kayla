@@ -16,10 +16,10 @@ function setup() {
   ball.color = "brown";
 
   ball2 = new Sprite();
-  ball2.x = 200;
+  ball2.x = 100;
   ball2.y = 300;
   ball2.diameter = 100;
-  ball2.color = "brown";
+  ball.color = "brown";
 
 
 }
