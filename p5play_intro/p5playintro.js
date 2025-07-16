@@ -21,6 +21,7 @@ function setup() {
   ball2.diameter = 100;
   ball2.color = "brown";
 
+  box = new Sprite();
   
 
 
