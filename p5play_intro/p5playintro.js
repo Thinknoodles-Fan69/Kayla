@@ -1,4 +1,5 @@
 let ball;
+let ball2;
 
 
 
