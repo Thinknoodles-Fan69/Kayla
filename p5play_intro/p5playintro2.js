@@ -1,5 +1,5 @@
 function setup() {
-  // Set up the canvas
+z
   new Canvas(800, 400);
   background(250); //background color
 
