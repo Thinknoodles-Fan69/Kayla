@@ -19,7 +19,7 @@ function setup() {
   ball2.x = 100;
   ball2.y = 300;
   ball2.diameter = 100;
-  ball.color = "brown";
+  ball2.color = "brown";
 
 
 }
