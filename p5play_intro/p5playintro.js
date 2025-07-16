@@ -4,7 +4,7 @@ function setup() {
   background(250); //background color
 
   // Basic shape testing
-  fill
+  function draw
   // write your codes here
  
   // End Basic shape testing
