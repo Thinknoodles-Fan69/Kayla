@@ -6,4 +6,5 @@ function setup() {
 
 function draw() {
   fill("skyblue")
+  stroke()
 }
