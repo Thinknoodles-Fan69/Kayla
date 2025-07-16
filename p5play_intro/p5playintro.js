@@ -24,7 +24,7 @@ function setup() {
   box = new Sprite();
   box.x = 100;
   box.y = 250;
-  box.w = 50;
+  box.w = 100;
   box.h = 50;
   box.color = "yellow";
 
