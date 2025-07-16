@@ -9,5 +9,5 @@ function draw() {
   stroke("pink")
   strokeWeight(10)
 
-  circle(30, 30, 30)
+  circle(60, 60, 30)
 }
