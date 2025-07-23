@@ -25,7 +25,7 @@ function setup() {
   console.log(product);
 
   fill(0, 255, 255)
-  text
+  textSize(14)
   text("The sum of a and b is " + sum, 50, 50)
 
 }
