@@ -40,7 +40,7 @@ function draw() {
   // rect(50, 50, 100, 200)
   // rect(150, 250, 100, 100)
 
-  background(240);
+  background(220);
   fill (0, 0, 255);
   textSize(14);
   text("Ball: (" + int(ball.x) + ", " + int(ball.y) + ")", 10, 20);
