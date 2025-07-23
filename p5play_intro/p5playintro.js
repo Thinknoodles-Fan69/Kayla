@@ -16,7 +16,7 @@ function setup() {
   ball.color = "brown";
   ball.vel.x = 3
   ball.vel.y = 3
-  ball.boun
+  ball.bounciness = 1
 
 
   // ball2 = new Sprite();
