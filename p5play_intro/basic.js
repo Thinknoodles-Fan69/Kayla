@@ -24,10 +24,10 @@ function setup() {
   console.log(sum);
   console.log(product);
 
-  fill(0, 255, 255)
-  textSize(14)
-  text("The sum of a and b is " + sum, 50, 50)
-  text("The product of a and b is " + product, 50, 100)
+  fill(0, 255, 255);
+  textSize(14);
+  text("The sum of a and b is " + sum, 50, 50);
+  text("The product of a and b is " + product, 50, 100);
 
 }
 
