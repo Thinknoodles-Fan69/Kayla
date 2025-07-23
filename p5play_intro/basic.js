@@ -31,7 +31,7 @@ function setup() {
 
   let base = 10;
   let height = 5;
-  let area = base * height /2
+  let area = base * height * 0.5
   console.log(area)
 
 }
