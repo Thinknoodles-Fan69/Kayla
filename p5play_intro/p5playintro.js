@@ -72,6 +72,6 @@ function draw() {
 
 
   if (mouse.presses("right")) {
-    let y = new Sprite()
+    let y = new Sprite(mouse)
   }
 }
