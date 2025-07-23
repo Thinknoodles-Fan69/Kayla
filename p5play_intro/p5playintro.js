@@ -63,4 +63,7 @@ function draw() {
   box.x = mouseX;
   box.y = mouseY;
     
+  if (mouse.presses("left")) {
+    let
+  }
 }
