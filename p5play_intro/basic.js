@@ -29,7 +29,9 @@ function setup() {
   text("The sum of a and b is " + sum, 50, 50);
   text("The product of a and b is " + product, 50, 100);
 
-  let base = 
+  let base = 10;
+  let height = 5;
+  
 
 }
 
