@@ -40,5 +40,6 @@ function draw() {
   // rect(50, 50, 100, 200)
   // rect(150, 250, 100, 100)
 
-  background
+  background(240);
+  fill
 }
