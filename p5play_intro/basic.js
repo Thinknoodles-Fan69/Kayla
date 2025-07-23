@@ -24,5 +24,7 @@ function setup() {
   console.log(sum);
   console.log(product);
 
+  text
+
 }
 
