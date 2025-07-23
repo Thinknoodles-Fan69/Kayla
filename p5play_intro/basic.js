@@ -24,7 +24,7 @@ function setup() {
   console.log(sum);
   console.log(product);
 
-  text("The sum of a and b is " + sum, )
+  text("The sum of a and b is " + sum, 50, 50)
 
 }
 
