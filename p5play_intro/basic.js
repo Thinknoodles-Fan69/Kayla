@@ -33,7 +33,7 @@ function setup() {
   let height = 5;
   let area = base * height * 0.5
   console.log(area);
-  text(" The area of the triangle is")
+  text(" The area of the triangle is " + area, 50, 50)
 
 }
 
