@@ -9,7 +9,7 @@ function setup() {
   new Canvas(800, 400);
   background(250); //background color
 
-  AudioWorkletNode.gravity.y = 10;
+  world.gravity.y = 10;
   
   ball = new Sprite();
   ball.x = 100;
