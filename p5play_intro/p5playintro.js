@@ -64,7 +64,8 @@ function draw() {
   box.y = mouseY;
     
   if (mouse.presses("left")) {
-    let x = new Sprite (mouseX, mouseY, 30, 30)
-    
+    let x = new Sprite (mouseX, mouseY, 30, 30);
+    x.collider
+
   }
 }
