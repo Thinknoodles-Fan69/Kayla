@@ -18,7 +18,7 @@ function setup() {
   ball.color = "brown";
   ball.vel.x = 3;
   ball.vel.y = 3;
-  ball.bounciness = 1;
+  ball.bounciness = 5;
   ball.collider = "dynamic";
 
 
@@ -73,6 +73,6 @@ function draw() {
 
   if (mouse.presses("right")) {
     let y = new Sprite(mouseX, mouseY, 30, 30);
-    y.collider = "dynamic";
+    y.collider = "static";
   }
 }
