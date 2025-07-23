@@ -26,12 +26,12 @@ function setup() {
   // ball2.diameter = 100;
   // ball2.color = "brown";
 
-  box = new Sprite();
-  box.x = 400;
-  box.y = 250;
-  box.w = 100;
-  box.h = 50;
-  box.color = "yellow";
+  // box = new Sprite();
+  // box.x = 400;
+  // box.y = 250;
+  // box.w = 100;
+  // box.h = 50;
+  // box.color = "yellow";
   
 
 
