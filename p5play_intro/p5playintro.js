@@ -64,6 +64,6 @@ function draw() {
   box.y = mouseY;
     
   if (mouse.presses("left")) {
-    let
+    let x = new Sprite ()
   }
 }
