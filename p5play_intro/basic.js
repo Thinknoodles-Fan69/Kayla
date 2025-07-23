@@ -27,6 +27,7 @@ function setup() {
   fill(0, 255, 255)
   textSize(14)
   text("The sum of a and b is " + sum, 50, 50)
+  text("The sum of a and b is " + sum, 50, 50)
 
 }
 
