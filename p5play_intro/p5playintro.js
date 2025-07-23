@@ -18,7 +18,7 @@ function setup() {
   ball.color = "brown";
   ball.vel.x = 3;
   ball.vel.y = 3;
-  ball.bounciness = ;
+  ball.bounciness = 10000000000000000000000000000000000000000000000;
   ball.collider = "dynamic";
 
 
