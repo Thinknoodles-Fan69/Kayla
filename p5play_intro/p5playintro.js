@@ -14,6 +14,7 @@ function setup() {
   ball.y = 200;
   ball.diameter = 100;
   ball.color = "brown";
+  ball.
 
   // ball2 = new Sprite();
   // ball2.x = 100;
