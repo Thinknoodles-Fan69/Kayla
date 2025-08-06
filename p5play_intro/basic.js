@@ -119,7 +119,8 @@ function setup() {
   // }
 
 
-  let groceries = ["apple", "banana", "milk"]
+  let groceries = ["apple", "banana", "milk"];
+  
 
 
 } 
