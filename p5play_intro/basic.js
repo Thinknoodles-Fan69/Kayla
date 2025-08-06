@@ -78,12 +78,20 @@ function setup() {
 
 
 
-  let count = 19
-  while ( count >= 1) {
-    console.log(count)
-    text(count, 50 + (19-count)*20, 50)
-    count -= 2
-  }
+  // let count = 19
+  // while ( count >= 1) {
+  //   console.log(count)
+  //   text(count, 50 + (19-count)*20, 50)
+  //   count -= 2
+  // }
 
 
+
+
+
+
+
+
+
+  
 } 
