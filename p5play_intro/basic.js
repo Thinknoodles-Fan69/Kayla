@@ -86,20 +86,20 @@ function setup() {
   // }
 
 
-  let names = ["Joel", "Oliver", "Kayven", "Ethan"];
-  console.log(names[2]);
-  names[2] = "Kv";
-  console.log(names[2]);
-  names.push("Alan");
-  console.log(names[4]);
-  names.unshift("Bruce");
-  console.log(names[0]);
-  names.splice(2, 0, "Chris");
-  console.log(names[2]);
-  names.pop();
-  console.log(names.length);
-  names.shift();
-  console.log(names.length);
+  // let names = ["Joel", "Oliver", "Kayven", "Ethan"];
+  // console.log(names[2]);
+  // names[2] = "Kv";
+  // console.log(names[2]);
+  // names.push("Alan");
+  // console.log(names[4]);
+  // names.unshift("Bruce");
+  // console.log(names[0]);
+  // names.splice(2, 0, "Chris");
+  // console.log(names[2]);
+  // names.pop();
+  // console.log(names.length);
+  // names.shift();
+  // console.log(names.length);
 
   names.splice
 
