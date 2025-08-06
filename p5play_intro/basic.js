@@ -128,7 +128,8 @@ function setup() {
   
   let i = 1
   for(let ElderStrawberryAndGrandMasterSprinkler of GrowAGarden) {
-    text(GrowAGarden(ElderStrawberryAndGrandMasterSprinkler), (ElderStrawberryAndGrandMasterSprinkler)*20 + 50, 50)
+    text(GrowAGarden(ElderStrawberryAndGrandMasterSprinkler), i*20 + 50, 50)
+    i +=
   }
 
 
