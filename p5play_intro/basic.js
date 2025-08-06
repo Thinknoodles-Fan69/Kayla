@@ -127,7 +127,7 @@ function setup() {
   console.log(GrowAGarden);
 
   for(let ElderStrawberryAndGrandMasterSprinkler of GrowAGarden) {
-    
+    text()
   }
 
 
