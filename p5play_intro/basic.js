@@ -92,7 +92,9 @@ function setup() {
   console.log(names[2]);
   names.push("Alan");
   console.log(names[4]);
-  names.unshift("Bruce")
+  names.unshift("Bruce");
+  console.log(names[0])
+  
 
 
 
