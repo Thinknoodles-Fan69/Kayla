@@ -86,7 +86,7 @@ function setup() {
   // }
 
 
-  let names = []
+  let names = ["Joel", "Oliver", "Kayven"]
 
 
 
