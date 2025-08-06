@@ -121,7 +121,7 @@ function setup() {
 
   let groceries = ["apple", "banana", "milk"];
   groceries.push("orange")
-  groceries.push("orange")
+  groceries.push("")
 
 
 } 
