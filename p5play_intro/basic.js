@@ -111,7 +111,8 @@ function setup() {
   // console.log(names);
 
   // console.log(names.length);
-  
+
+  console.log()
 
 
 
