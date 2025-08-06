@@ -91,6 +91,7 @@ function setup() {
   names[2] = "Kv";
   console.log(names[2]);
   names.push("Alan");
+  console.log(names[4]);
   
 
 
