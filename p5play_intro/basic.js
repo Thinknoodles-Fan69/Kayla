@@ -123,8 +123,9 @@ function setup() {
   GrowAGarden.push("orange");
   GrowAGarden.push("butter");
   GrowAGarden.shift();
-  GrowAGarden.splice()
+  GrowAGarden.splice(1, 1, "kaya")
 
+  
 
 
 } 
