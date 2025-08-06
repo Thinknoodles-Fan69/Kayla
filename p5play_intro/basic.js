@@ -101,9 +101,11 @@ function setup() {
   // names.shift();
   // console.log(names[0]);
 
-  names.splice(1, 2);
-  console.log(names);
-  
+  // names.splice(1, 2);
+  // console.log(names);
+  // for (let i = 0 < names.length; 1++) {
+  //   console.log(names[i])
+  // }
 
 
 
