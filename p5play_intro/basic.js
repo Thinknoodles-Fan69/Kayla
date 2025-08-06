@@ -101,7 +101,9 @@ function setup() {
   // names.shift();
   // console.log(names[0]);
 
-  names.splice(1, 2)
+  names.splice(1, 2);
+  console.log(names);
+  
 
 
 
