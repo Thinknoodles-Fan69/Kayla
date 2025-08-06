@@ -114,9 +114,9 @@ function setup() {
 
   // console.log(names.includes("Eric"));
 
-  for(let item of names) {
-    
-  }
+  // for(let item of names) {
+  //   console.log(item);
+  // }
 
 
 
