@@ -87,8 +87,8 @@ function setup() {
 
 
   let names = ["Joel", "Oliver", "Kayven", "Ethan"];
-  console.log
-
+  console.log(names[2])
+  
 
 
 
