@@ -107,7 +107,7 @@ function setup() {
   //   console.log(names[i])
   // }
 
-  names.splice(names.)
+  names.splice(names.indexOf("Joel"),)
 
 
 
