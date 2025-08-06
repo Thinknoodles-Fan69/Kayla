@@ -89,6 +89,7 @@ function setup() {
   let names = ["Joel", "Oliver", "Kayven", "Ethan"];
   console.log(names[2]);
   names[2] = "Kv";
+  console.log()
 
 
 
