@@ -107,8 +107,9 @@ function setup() {
   //   console.log(names[i])
   // }
 
-  names.splice(names.indexOf("Kayven"),1);
-  console.log
+  // names.splice(names.indexOf("Kayven"),1);
+  // console.log(names);
+
 
 
 
