@@ -98,7 +98,8 @@ function setup() {
   console.log(names[2]);
   names.pop();
   console.log(names.length);
-  names
+  names.shift();
+  console.log()
 
 
 
