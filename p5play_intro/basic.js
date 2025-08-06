@@ -127,7 +127,7 @@ function setup() {
   console.log(GrowAGarden);
 
   for(let ElderStrawberryAndGrandMasterSprinkler of GrowAGarden) {
-    text(count, 50 + (19-count)*20, 50)
+    text(GrowAGarden(ElderStrawberryAndGrandMasterSprinkler) 20, 50)
   }
 
 
