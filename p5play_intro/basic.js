@@ -126,7 +126,7 @@ function setup() {
   GrowAGarden.splice(1, 1, "kaya");
   console.log(GrowAGarden);
   
-
+  let i = 0
   for(let i = ElderStrawberryAndGrandMasterSprinkler; i < GrowAGarden.length; i++) {
     text(GrowAGarden[i], 50, 50 + i*50)
 
