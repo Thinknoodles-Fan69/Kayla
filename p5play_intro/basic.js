@@ -120,9 +120,10 @@ function setup() {
 
 
   let GrowAGarden = ["apple", "banana", "milk"];
-  GrowAGarden.push("orange")
-  GrowAGarden.push("butter")
-  GrowAGarden.shift()
+  GrowAGarden.push("orange");
+  GrowAGarden.push("butter");
+  GrowAGarden.shift(GrowAGarden[1])
+  
 
 
 } 
