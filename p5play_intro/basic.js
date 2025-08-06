@@ -110,7 +110,8 @@ function setup() {
   // names.splice(names.indexOf("Kayven"),1);
   // console.log(names);
 
-  console.log(names.length);
+  // console.log(names.length);
+  
 
 
 
