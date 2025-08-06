@@ -99,7 +99,9 @@ function setup() {
   names.pop();
   console.log(names.length);
   names.shift();
-  console.log()
+  console.log(names.length);
+
+  names.splice
 
 
 
