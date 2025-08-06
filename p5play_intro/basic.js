@@ -126,7 +126,7 @@ function setup() {
   GrowAGarden.splice(1, 1, "kaya");
   console.log(GrowAGarden);
 
-  
+  for(let ElderStrawberryAndGrandMasterSprinkler of GrowAGarden) {
 
 
 } 
