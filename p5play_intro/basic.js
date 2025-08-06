@@ -96,8 +96,8 @@ function setup() {
   console.log(names[0]);
   names.splice(2, 0, "Chris");
   console.log(names[2]);
-
-  names.pop()
+  names.pop();
+  console.log()
 
 
 
