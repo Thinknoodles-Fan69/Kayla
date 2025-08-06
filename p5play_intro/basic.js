@@ -94,7 +94,7 @@ function setup() {
   console.log(names[4]);
   names.unshift("Bruce");
   console.log(names[0])
-  
+  names.splice(2, 0, "Chris")
 
 
 
