@@ -10,7 +10,8 @@ function preload() {
 
 
 function setup() {
-    new CanvasCaptureMediaStreamTrack(400,60)
+    new Canvas(400, 600);
+
 }
 
 function draw() {
