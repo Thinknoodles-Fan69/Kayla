@@ -46,5 +46,6 @@ function draw() {
     } 
 
     // Debug
-    fill("blue")
+    fill("blue");
+    textSize()
 }
