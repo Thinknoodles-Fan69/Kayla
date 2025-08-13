@@ -2,7 +2,8 @@ let floor, bird;
 let flapMidImg, bg, base;
 
 function preload() {
-    flapMidImg = loadImage("")
+    flapMidImg = loadImage("flappybird/assets/bluebird-midflap.png");
+    bg = loadImage("")
 }
 
 
