@@ -3,7 +3,7 @@ let flapMidImg, bg, base;
 
 function preload() {
     flapMidImg = loadImage("flappybird/assets/bluebird-midflap.png");
-    bg = loadImage("")
+    bg = loadImage("flappybird/assets/background-day.png")
 }
 
 
