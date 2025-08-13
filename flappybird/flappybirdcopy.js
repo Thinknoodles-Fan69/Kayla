@@ -45,6 +45,6 @@ function draw() {
         bird.sleeping = false;
     } 
 
-    Debug
+    // Debug
     fill("blue")
 }
