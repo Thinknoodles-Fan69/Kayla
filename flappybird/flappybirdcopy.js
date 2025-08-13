@@ -47,5 +47,6 @@ function draw() {
 
     // Debug
     fill("blue");
-    textSize()
+    textSize(14);
+    text("vel.y: " + bird.vel.y.toFixed(2))
 }
