@@ -31,7 +31,9 @@ function setup() {
     floor.y = height - 20;
     floor.width = 400;
     floow.height = 125;
-    floor.img = base
+    floor.img = base;
+
+    
 
 }
 
