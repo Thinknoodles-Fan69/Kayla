@@ -1,5 +1,9 @@
 let floor, bird;
-let flapMidImg, 
+let flapMidImg, bg, base;
+
+function preload() {
+    flap
+}
 
 
 
