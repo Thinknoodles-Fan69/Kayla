@@ -46,5 +46,5 @@ function draw() {
     } 
 
 
-    fil
+    fill("blue")
 }
