@@ -2,7 +2,7 @@ let floor, bird;
 let flapMidImg, bg, base;
 
 function preload() {
-    flap
+    flapMidImg = loadImage
 }
 
 
