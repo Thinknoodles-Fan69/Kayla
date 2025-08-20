@@ -55,7 +55,8 @@ function setup() {
 
 
     bird.collider = "dynamics";
-    bird.bounciness = 
+    bird.mass = 2;
+    bird.bounciness = 0.02;
 
 }
 
