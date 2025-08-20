@@ -51,7 +51,8 @@ function setup() {
     bird.y = height/2;
     bird.width = 30;
     bird.height = 30;
-    bird.img = bird
+    bird.img = image1;
+    
 }
 
 
