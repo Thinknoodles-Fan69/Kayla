@@ -22,7 +22,7 @@
 
 
 function preload() {
-    // load
+    // load completely the image/sound etc
 }
 
 function setup() {
