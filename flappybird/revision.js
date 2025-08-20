@@ -35,5 +35,6 @@
 
 
 
+let image1;
 let
 
