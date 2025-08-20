@@ -18,6 +18,6 @@ function setup() {
 //     i += 1;
 // }
 
-]
+}
 
 
