@@ -3,8 +3,8 @@ let flapMidImg, bg, base, flapUpImg, flapDownImg;
 
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
-    flapUpImg = loadImage("assets/bluebird-upflap.png")
-    flapDownImg = loadImage("assets/bluebird-downflap.png")
+    flapUpImg = loadImage("assets/bluebird-upflap.png");
+    flapDownImg = loadImage("assets/bluebird-downflap.png");
     bg = loadImage("assets/background-day.png");
     base = loadImage("assets/base.png");
 }
