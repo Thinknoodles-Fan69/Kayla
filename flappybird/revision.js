@@ -39,8 +39,8 @@ let image1;
 let bird;
 
 function preload() {
-    image1 = loadImage("");
-    
+    image1 = loadImage("assets/yellowbird-midflap.png");
+
 }
 
 
