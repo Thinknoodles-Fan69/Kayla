@@ -45,6 +45,7 @@ function preload() {
 
 function setup() {
     new Canvas (400, 600);
+    backgrou
 
     bird = new Sprite();
     bird.x = width/2;
