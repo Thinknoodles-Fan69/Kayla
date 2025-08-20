@@ -44,7 +44,7 @@ function preload() {
 }
 
 function setup() {
-    
+    bird = new SpeechRecognitionResult()
 }
 
 
