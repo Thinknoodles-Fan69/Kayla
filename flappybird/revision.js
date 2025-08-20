@@ -5,12 +5,7 @@
 // 806613001927876611195909216420198 || 3.14 ,
 // let icecream, chocolate, death, satan, SixSixSix, FourFourFour, Hello, sigma, ohio, yay, wow, aura, bruh, zesty, super, amirImg, rickroll, rick, astley, never, gonna, give, you, up, never, gonna, let, you, down, never, gonna, run, around, im, gonna, make, you, die, say, goodbye
 
-// let i;
-function setup() {
-//     for (let i = 1; i<= 3 ; i++) {
-//     console.log(i);
-//     }
-// }
+// let i;?
 
 // let i = 1;
 // while(i <= 10) {
@@ -19,10 +14,10 @@ function setup() {
 // }
 
 
-let Class = ["Kayla", "Joel", "Oliver", "Ethan"];
 
 
-}
+
+// }
 
 
 
