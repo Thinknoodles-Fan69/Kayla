@@ -54,7 +54,8 @@ function setup() {
     bird.img = image1;
 
 
-    bird.col
+    bird.collider = "dynamics";
+    
 
 }
 
