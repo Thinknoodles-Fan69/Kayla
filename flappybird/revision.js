@@ -19,7 +19,7 @@ function setup() {
 // }
 
 
-let Class= [""]
+let Class = [""]
 
 }
 
