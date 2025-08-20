@@ -17,6 +17,10 @@
 // }
 
 
-let Class = ["Kayla", "Joel", "Oliver", "Ethan"];
+// let Class = ["Kayla", "Joel", "Oliver", "Ethan"];
+
+function setup() {
+    
+}
 
 
