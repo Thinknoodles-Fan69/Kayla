@@ -19,6 +19,12 @@
 
 // let Class = ["Kayla", "Joel", "Oliver", "Ethan"];
 
+
+
+function preload() {
+    
+}
+
 function setup() {
 // only loads once
 }
