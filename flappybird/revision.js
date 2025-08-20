@@ -36,5 +36,6 @@
 
 
 let image1;
-let
+let bird;
+
 
