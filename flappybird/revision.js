@@ -49,7 +49,9 @@ function setup() {
     bird = new Sprite();
     bird.x = width/2;
     bird.y = height/2;
-    
+    bird.width = 30;
+    bird.height = 30;
+    bird.img = bird
 }
 
 
