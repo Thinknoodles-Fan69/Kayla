@@ -38,5 +38,8 @@
 let image1;
 let bird;
 
+function preload() {
+    
+}
 
 
