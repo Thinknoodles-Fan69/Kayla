@@ -21,15 +21,19 @@
 
 
 
-function preload() {
-    // load completely the image/sound etc
-}
+// function preload() {
+//     // load completely the image/sound etc
+// }
 
-function setup() {
-    // only loads once
-}
+// function setup() {
+//     // only loads once
+// }
 
-function draw() {
-    // loads repeatedly
-}
+// function draw() {
+//     // loads repeatedly
+// }
+
+
+
+
 
