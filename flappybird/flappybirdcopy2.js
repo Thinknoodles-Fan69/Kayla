@@ -1,5 +1,5 @@
 let floor, bird;
-let flapMidImg, bg, base;
+let flapMidImg, bg, base, flapUpI;
 
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
@@ -45,7 +45,7 @@ function draw() {
         bird.sleeping = false;
     } 
     if(bird.vel.y < -1) {
-        
+
     }
 
     // Debug
