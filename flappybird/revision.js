@@ -14,10 +14,9 @@
 // }
 
 
-
-
-
 // }
 
+
+let Class = ["Kayla", "Joel", "Oliver", "Ethan"];
 
 
