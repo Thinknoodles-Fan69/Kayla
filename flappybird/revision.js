@@ -6,7 +6,9 @@
 // let icecream, chocolate, death, satan, SixSixSix, FourFourFour, Hello, sigma, ohio, yay, wow, aura, bruh, zesty, super, amirImg, rickroll, rick, astley, never, gonna, give, you, up, never, gonna, let, you, down, never, gonna, run, around, im, gonna, make, you, die, say, goodbye
 
 
-
+function setup() {
+    
+}
 
 
 
