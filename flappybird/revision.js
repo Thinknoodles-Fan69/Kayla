@@ -20,7 +20,10 @@
 // let Class = ["Kayla", "Joel", "Oliver", "Ethan"];
 
 function setup() {
-    
+// loads once
 }
 
+function draw() {
+
+}
 
