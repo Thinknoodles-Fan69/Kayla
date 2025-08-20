@@ -19,7 +19,7 @@ function setup() {
 // }
 
 
-let SeeElAyeEsEs = [""]
+let Class= [""]
 
 }
 
