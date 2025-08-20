@@ -22,14 +22,14 @@
 
 
 function preload() {
-    
+    // load
 }
 
 function setup() {
-// only loads once
+        // only loads once
 }
 
 function draw() {
-// loads repeatedly
+    // loads repeatedly
 }
 
