@@ -26,7 +26,7 @@ function preload() {
 }
 
 function setup() {
-        // only loads once
+    // only loads once
 }
 
 function draw() {
