@@ -44,7 +44,8 @@ function preload() {
 }
 
 function setup() {
-    bird = new SpeechRecognitionResult()
+    
+    bird = new Sprite()
 }
 
 
