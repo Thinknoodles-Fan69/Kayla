@@ -44,6 +44,7 @@ function draw() {
         bird.vel.y = -5;
         bird.sleeping = false;
     } 
+    if(bird.vel.y)
 
     // Debug
     fill("blue");
