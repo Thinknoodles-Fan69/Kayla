@@ -39,7 +39,7 @@ let image1;
 let bird;
 
 function preload() {
-    image1 = loadImage("assets/bluebird-midflap.png");
+    image1 = loadImage("assets/yellowbird-midflap.png");
 
 }
 
