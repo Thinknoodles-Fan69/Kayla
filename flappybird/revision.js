@@ -19,7 +19,7 @@ function setup() {
 // }
 
 
-let Class = ["Kayla", "Joel"]
+let Class = ["Kayla", "Joel", "Oliver"]
 
 }
 
