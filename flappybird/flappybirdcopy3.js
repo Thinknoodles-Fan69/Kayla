@@ -83,16 +83,16 @@ function draw() {
         let midY = height/2;
 
 
-        bottomPipe = new Sprite(400, midY, 52, 320, 'static');
+        bottomPipe = new Sprite(400, midY + gap/2, 52, 320, 'static');
         bottomPipe.img = pipe;
         pipeGroup.add(bottomPipe);
         pipeGroup.layer = 0;
 
 
-        topPipe = new Sprite(400, midY + gap/2, 52, 320, 'static');
-        topPipe.img = pipe;
-        pipeGroup.add(topPipe);
-        pipeGroup.layer = 0;
+        // topPipe = new Sprite(400, midY + gap/2, 52, 320, 'static');
+        // topPipe.img = pipe;
+        // pipeGroup.add(topPipe);
+        // pipeGroup.layer = 0;
 
     }
 }
