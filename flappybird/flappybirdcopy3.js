@@ -1,5 +1,6 @@
 let floor, bird;
 let flapMidImg, bg, base, flapUpImg, flapDownImg;
+let pipeGroup;
 
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
