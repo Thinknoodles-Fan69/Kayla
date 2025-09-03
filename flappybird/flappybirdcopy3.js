@@ -91,7 +91,7 @@ function draw() {
 
         topPipe = new Sprite(400, midY, 52, 320, 'static');
         topPipe.img = pipe;
-        pipeGroup.add(top);
+        pipeGroup.add(topPipe);
         pipeGroup.layer = 0;
 
     }
