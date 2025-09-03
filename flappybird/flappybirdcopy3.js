@@ -38,7 +38,7 @@ function setup() {
 
     floor.collider = "static";
 
-    pipeGroup = new pipeGroup()
+    pipeGroup = new Group();
 
 }
 
