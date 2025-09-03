@@ -10,7 +10,7 @@ function preload() {
     flapDownImg = loadImage("assets/bluebird-downflap.png");
     bg = loadImage("assets/background-day.png");
     base = loadImage("assets/base.png");
-    pipe = loadImage('assest/pipe-green.png')
+    pipe = loadImage("flappybird/assets/pipe-green.png")
 }
 
 
