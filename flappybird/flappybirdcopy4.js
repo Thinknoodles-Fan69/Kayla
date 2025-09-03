@@ -70,7 +70,19 @@ function draw() {
 
 
     
-    
+    bird.x += 3;
+    camera.x = bird.x;
+    floor.x = bird.x;
+
+    if (frameCount % 90 === 0) {
+        spawnPipePair();
+    }
+
+    for (let pipe of pipeGroup) {
+        if (pipe.x < -50) {
+            pipe.remove()
+        }
+    }
 
 
     
