@@ -127,7 +127,7 @@ function draw() {
         pipeGroup.add(topPipe);
         pipeGroup.layer = 0;
 
-        topPipe
+        topPipe = new Sprite(bird.x + 400)
 
     }
 }
