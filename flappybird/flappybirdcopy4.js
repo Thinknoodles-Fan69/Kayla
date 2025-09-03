@@ -116,12 +116,12 @@ function spawnPipePair() {
         let gap = 50;
 
 
-        bottomPipe = new Sprite(bird.x + 400, midY + gap/2 + 200, 52, 320, 'static');
+        bottomPipe = new Sprite(400, midY + gap/2 + 200, 52, 320, 'static');
         bottomPipe.img = pipe;
         
 
 
-        topPipe = new Sprite(bird.x + 400, midY + gap/2 - 300, 52, 320, 'static');
+        topPipe = new Sprite(400, midY + gap/2 - 300, 52, 320, 'static');
         topPipe.rotation = -180
         topPipe.img = pipe;
 
@@ -129,7 +129,7 @@ function spawnPipePair() {
         pipeGroup.add(topPipe);
         pipeGroup.layer = 0;
 
-        // topPipe = new Sprite(bird.x + 400, midY - gap / 2 - 200, 52, 320, 'static');
-        // bottomPipe = new Sprite(bird.x + 400, midY + gap / 2 + 200, 52, 320, 'static');
+        topPipe = new Sprite(bird.x + 400, midY - gap / 2 - 200, 52, 320, 'static');
+        bottomPipe = new Sprite(bird.x + 400, midY + gap / 2 + 200, 52, 320, 'static');
 
     }
