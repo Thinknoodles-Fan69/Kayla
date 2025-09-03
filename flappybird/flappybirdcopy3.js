@@ -88,5 +88,11 @@ function draw() {
         pipeGroup.add(bottomPipe);
         pipeGroup.layer = 0;
 
+
+        TOPPipe = new Sprite(400, midY, 52, 320, 'static');
+        bottomPipe.img = pipe;
+        pipeGroup.add(bottomPipe);
+        pipeGroup.layer = 0;
+
     }
 }
