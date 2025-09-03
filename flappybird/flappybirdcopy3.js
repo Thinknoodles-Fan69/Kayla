@@ -80,6 +80,9 @@ function draw() {
 
 
     function spawnPipePair() {
+        let midY = height/2
+
+        
         bottomPipe = new Sprite(400, midY)
     }
 }
