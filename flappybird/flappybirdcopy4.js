@@ -69,10 +69,12 @@ function draw() {
         spawnPipePair();
 
 
+    
+    bird.x
 
 
 
-        
+    
 
 
 
