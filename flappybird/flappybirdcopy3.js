@@ -83,7 +83,7 @@ function draw() {
         let midY = height/2;
 
 
-        bottomPipe = new Sprite(400, midY);
-        
+        bottomPipe = new Sprite(400, midY, 52);
+
     }
 }
