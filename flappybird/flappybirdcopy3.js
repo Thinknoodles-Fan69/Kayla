@@ -86,13 +86,14 @@ function draw() {
 
         bottomPipe = new Sprite(400, midY + gap/2 + 200, 52, 320, 'static');
         bottomPipe.img = pipe;
-        pipeGroup.add(bottomPipe);
-        pipeGroup.layer = 0;
+        
 
 
         topPipe = new Sprite(400, midY + gap/2 - 300, 52, 320, 'static');
         topPipe.rotation = -180
         topPipe.img = pipe;
+
+        pipeGroup.add(bottomPipe);
         pipeGroup.add(topPipe);
         pipeGroup.layer = 0;
 
