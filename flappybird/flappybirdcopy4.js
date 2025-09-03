@@ -70,7 +70,8 @@ function draw() {
 
 
     
-    bird.x
+    bird.x += 3;
+    
 
 
 
