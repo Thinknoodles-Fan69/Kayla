@@ -38,6 +38,8 @@ function setup() {
 
     floor.collider = "static";
 
+    
+
 }
 
 function draw() {
