@@ -62,7 +62,9 @@ function draw() {
         bird.rotation = 0;
     }
 
-    if 
+    if (frameCount === 1) {
+        
+    }
 
 
 
