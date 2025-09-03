@@ -62,6 +62,10 @@ function draw() {
         bird.rotation = 0;
     }
 
+    if 
+
+
+
     // Debug
     fill("blue");
     textSize(14);
