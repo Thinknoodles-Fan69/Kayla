@@ -90,9 +90,10 @@ function draw() {
 
 
     //collision detection
-    if(bird.collision(pipeGroup) || bird.collides(floor || bird.y <= 0));
+    if(bird.collision(pipeGroup) || bird.collides(floor || bird.y <= 0)) {
         noLoop();
-
+    }
+    
 
 
 
@@ -113,7 +114,7 @@ function draw() {
 
 
 function spawnPipePair() {
-        let midY = random(305, height - 150);
+        let midY = random(, height - 150);
         let gap = 50;
 
 
