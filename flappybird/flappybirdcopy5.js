@@ -54,7 +54,7 @@ function setup() {
 
 
 
-    startScreen
+    startScreenLabel = newScreen
 
 }
 
