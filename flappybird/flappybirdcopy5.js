@@ -90,10 +90,7 @@ function draw() {
 
 
     //collision detection
-
-
-
-
+    
 
 
 
