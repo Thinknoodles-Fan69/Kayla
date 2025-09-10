@@ -10,6 +10,7 @@ let gameoverImg;
 let gameoverLabel;
 let startScreenLabel;
 let startScreenImg;
+let startGame = false;
 
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
@@ -60,7 +61,7 @@ function setup() {
 }
 
 
-let startGame = false
+
 function draw() {
     image(bg, 0, 0, width, height);
 
