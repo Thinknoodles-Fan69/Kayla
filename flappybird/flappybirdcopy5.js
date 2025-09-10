@@ -54,7 +54,7 @@ function setup() {
 
 
 
-    startScreenLabel = newScreen
+    startScreenLabel = new Sprite(width/2, height/2 , 50)
 
 }
 
