@@ -9,7 +9,7 @@ let bottonPipe, topPipe;
 let gameoverImg;
 let gameoverLabel;
 let startScreenLabel;
-let startScre
+let startScreenImg;
 
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
