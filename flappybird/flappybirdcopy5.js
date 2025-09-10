@@ -52,6 +52,10 @@ function setup() {
 
     pipeGroup = new Group();
 
+
+
+    startScreen
+
 }
 
 function draw() {
