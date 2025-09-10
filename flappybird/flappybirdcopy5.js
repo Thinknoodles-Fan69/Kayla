@@ -90,7 +90,7 @@ function draw() {
 
 
     //collision detection
-    is(bird.collision(pipeGroup) || )
+    is(bird.collision(pipeGroup) || bird.collides(floor || bird.y))
 
 
 
