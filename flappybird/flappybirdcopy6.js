@@ -69,7 +69,7 @@ function draw() {
     if(kb.presses('space') || mouse.presses()) {
         startGame = true;
         // startScreenLabel.collider = 'dynamic';
-        startScreenLabel
+        startScreenLabel.visible = false;
     }
 
     if(startGame) {
