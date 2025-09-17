@@ -12,8 +12,8 @@ let startScreenLabel;
 let startScreenImg;
 let startGame = false;
 let score = 0;
-let numberImages = 
-
+let numberImages = [];
+let score
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
     flapUpImg = loadImage("assets/bluebird-upflap.png");
