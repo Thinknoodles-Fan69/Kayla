@@ -205,6 +205,6 @@ function drawScore(x, y, score, digitWidth, digitHeight) {
 
 
 
-        moveGroup()
+        moveGroup(scoreDigits, cameraX, 24);
     }
 }
