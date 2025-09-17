@@ -40,6 +40,7 @@ function setup() {
     bird.bounciness = 0.02;
     bird.drag = 0.5;
     world.gravity.y = 10;
+    bird.visible
 
 
     floor = new Sprite();
