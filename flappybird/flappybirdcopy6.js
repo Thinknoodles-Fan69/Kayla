@@ -148,7 +148,7 @@ function draw() {
     text("sleeping: " + bird.sleeping, 10, 60);
 
 
-    
+
 
 
     
@@ -181,4 +181,9 @@ function spawnPipePair() {
         
         
 
+}
+
+
+function drawScore(x, y, score, digitWidth, digitHeight) {
+    
 }
