@@ -180,7 +180,7 @@ function spawnPipePair() {
     topPipe.img = pipe;
 
 
-    
+    topPipe.passed =
 
     pipeGroup.add(bottomPipe);
     pipeGroup.add(topPipe);
