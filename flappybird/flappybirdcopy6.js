@@ -70,7 +70,7 @@ function draw() {
         startScreenLabel.collider = 'dynamic';
     }
 
-
+    if(startGame) {
     if(kb.presses("space") || mouse.presses()) {
         bird.vel.y = -5;
         bird.sleeping = false;
@@ -118,6 +118,7 @@ function draw() {
 
 
         noLoop();
+    }
     }
     
 
