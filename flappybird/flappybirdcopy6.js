@@ -179,6 +179,9 @@ function spawnPipePair() {
     topPipe.rotation = -180;
     topPipe.img = pipe;
 
+
+    
+
     pipeGroup.add(bottomPipe);
     pipeGroup.add(topPipe);
     pipeGroup.layer = 0;
@@ -218,7 +221,7 @@ function moveGroup(group, targetX, spacing) {
     let startX = (targetX - totalWidth/2);
 
     for (let i = 0; i < group.length; i++) {
-        
+
         group[i].x = startX + i * spacing;
 
     }
