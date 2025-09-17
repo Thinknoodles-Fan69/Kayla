@@ -82,7 +82,7 @@ function draw() {
         // startScreenLabel.collider = 'dynamic';
         startScreenLabel.visible = false;
         bird.visible = true;
-        
+        world.gravity.y = 10;
 
     }
 
