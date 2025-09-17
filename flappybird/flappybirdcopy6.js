@@ -81,10 +81,12 @@ function draw() {
         startGame = true;
         // startScreenLabel.collider = 'dynamic';
         startScreenLabel.visible = false;
+        bird.visible = true;
+        
     }
 
     if(startGame) {
-        bird.visible = true;
+        
 
         if(kb.presses("space") || mouse.presses()) {
             bird.vel.y = -5;
@@ -185,5 +187,5 @@ function spawnPipePair() {
 
 
 function drawScore(x, y, score, digitWidth, digitHeight) {
-    
+
 }
