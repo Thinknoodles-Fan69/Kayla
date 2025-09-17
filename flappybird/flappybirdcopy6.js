@@ -72,6 +72,7 @@ function draw() {
     }
 
     if(startGame) {
+        
         if(kb.presses("space") || mouse.presses()) {
             bird.vel.y = -5;
             bird.sleeping = false;
