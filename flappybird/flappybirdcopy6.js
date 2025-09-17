@@ -13,7 +13,8 @@ let startScreenImg;
 let startGame = false;
 let score = 0;
 let numberImages = [];
-let score
+let scoreDigits;
+
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
     flapUpImg = loadImage("assets/bluebird-upflap.png");
