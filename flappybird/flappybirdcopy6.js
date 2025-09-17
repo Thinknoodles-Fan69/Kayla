@@ -138,9 +138,13 @@ function draw() {
             noLoop();
         }
 
+        for(let pipe of pipeGroup) {
+
+            
+        }
 
 
-        
+
     }
     
 
