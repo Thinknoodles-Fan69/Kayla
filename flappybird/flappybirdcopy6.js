@@ -68,12 +68,13 @@ function draw() {
 
     if(kb.presses('space') || mouse.presses()) {
         startGame = true;
-        startScreenLabel.collider = 'dynamic';
+        // startScreenLabel.collider = 'dynamic';
+        startScreenLabel
     }
 
     if(startGame) {
         bird.visible = true;
-        
+
         if(kb.presses("space") || mouse.presses()) {
             bird.vel.y = -5;
             bird.sleeping = false;
