@@ -197,6 +197,7 @@ function drawScore(x, y, score, digitWidth, digitHeight) {
 
     for (let i = 0; i < scoreStr.length; i++) {
         let digit = int(scoreStr[i]);
-        let xPox = startX +i
+        let xPox = startX + i * digitWidth;
+        
     }
 }
