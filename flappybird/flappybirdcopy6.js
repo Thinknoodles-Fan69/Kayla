@@ -198,6 +198,8 @@ function drawScore(x, y, score, digitWidth, digitHeight) {
     for (let i = 0; i < scoreStr.length; i++) {
         let digit = int(scoreStr[i]);
         let xPox = startX + i * digitWidth;
-        let digitSprite = new scoreDigits.Sprite(xPox, y, digitWidth, digitHeight)
+        let digitSprite = new scoreDigits.Sprite(xPox, y, digitWidth, digitHeight);
+
+        digitSprite.img = numberImages[digit];
     }
 }
