@@ -14,6 +14,7 @@ let startGame = false;
 let score = 0;
 let numberImages = [];
 let scoreDigits;
+let flapSound
 
 function preload() {
     flapMidImg = loadImage("assets/bluebird-midflap.png");
