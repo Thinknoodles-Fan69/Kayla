@@ -22,10 +22,12 @@ function preload() {
     flapDownImg = loadImage("assets/bluebird-downflap.png");
     bg = loadImage("assets/background-day.png");
     base = loadImage("assets/base.png");
-    pipe = loadImage("assets/pipe-green.png")
-    gameoverImg = loadImage("assets/gameover.png")
-    startScreenImg = loadImage('assets/message.png')
-    flapSound = createAudio("assets/sfx_wing.mp3")
+    pipe = loadImage("assets/pipe-green.png");
+    gameoverImg = loadImage("assets/gameover.png");
+    startScreenImg = loadImage('assets/message.png');
+    flapSound = createAudio("assets/sfx_wing.mp3");
+    flapSound = createAudio("assets/sfx_wing.mp3");
+    flapSound = createAudio("assets/sfx_wing.mp3");
 
     for(let i=0; i<10; i++) {
         numberImages[i] = loadImage("assets/" + i + ".png");
