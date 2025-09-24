@@ -148,7 +148,7 @@ function draw() {
                 startGame = false;
 
 
-                pipe.removeAll();
+                pipeGroup.removeAll();
                 bird.vel.x = 0;
                 bird.vel.y = 0;
                 bird.rotation = 0;
