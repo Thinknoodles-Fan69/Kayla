@@ -44,6 +44,7 @@ function draw() {
 
 function spawnFruit() {
     let fruitData = random(fruitTypes); 
-    let random =
+    let random = random(300, 500);
+    
 }
 
