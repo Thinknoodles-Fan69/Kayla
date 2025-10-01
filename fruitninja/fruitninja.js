@@ -45,6 +45,6 @@ function draw() {
 function spawnFruit() {
     let fruitData = random(fruitTypes); 
     let random = random(300, 500);
-    let fruit = new fruitGroup
+    let fruit = new fruitGroup.Sprite(randomX, height )
 }
 
