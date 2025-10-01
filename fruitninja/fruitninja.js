@@ -1,7 +1,7 @@
-let dojoBg;
+let dojoBG;
 
 function preload() {
-
+    dojoBG
 }
 
 
