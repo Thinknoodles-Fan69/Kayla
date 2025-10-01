@@ -34,5 +34,9 @@ function setup() {
 function draw() {
     clear();
     image(dojoBG, 0, 0, width, height);
+
+    if(frameCount % 120 === 0) {
+        
+    }
 }
 
