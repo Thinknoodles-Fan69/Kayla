@@ -88,6 +88,8 @@ function draw() {
     }
 
     if(startGame) {
+
+        bird.colli
         
 
         if(kb.presses("space") || mouse.presses()) {
