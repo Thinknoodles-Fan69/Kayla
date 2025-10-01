@@ -12,7 +12,7 @@ function preload() {
     };
 
     let watermelon = {
-        whole: loadImage
+        whole: loadImage("fruitninja/assets/watermelonwhole.png")
     }
 }
 
