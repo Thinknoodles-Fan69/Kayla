@@ -49,5 +49,6 @@ function spawnFruit() {
     fruit.image = fruitDate.whole;
     fruit.type = fruitData;
     
+
 }
 
