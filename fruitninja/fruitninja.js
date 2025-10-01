@@ -39,8 +39,10 @@ function draw() {
 
     if(frameCount % 120 === 0) {
         let num = 5;
-        for(let i = 0; i < num; )
-        spawnFruit();
+        for(let i = 0; i < num; i++) {
+
+        }
+        
     }
 
 
