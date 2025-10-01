@@ -6,7 +6,7 @@ function preload() {
 
 
 function setup() {
-    new Canv
+    new Canvas(800, 600)
 }
 
 
