@@ -89,7 +89,7 @@ function draw() {
 
     if(startGame) {
 
-        bird.colli
+        bird.collider = "dynamic";
         
 
         if(kb.presses("space") || mouse.presses()) {
