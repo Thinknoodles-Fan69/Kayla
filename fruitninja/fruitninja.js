@@ -1,7 +1,7 @@
 let dojoBG;
 
 function preload() {
-    dojoBG
+    dojoBG = loadImage("")
 }
 
 
