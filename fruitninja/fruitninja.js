@@ -13,5 +13,5 @@ function setup() {
 
 function draw() {
     clear();
-    
+    image()
 }
