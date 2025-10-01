@@ -7,13 +7,13 @@ let fruitTypes = [];
 function preload() {
     dojoBG = loadImage("assets/dojobackground.png");
 
-    let peach = {
-        whole: loadImage("assets/peachwhole.png")
-    };
+    // let peach = {
+    //     whole: loadImage("assets/peachwhole.png");
+    // };
 
-    let watermelon = {
-        whole: loadImage("fruitninja/assets/watermelonwhole.png")
-    }
+    // let watermelon = {
+    //     whole: loadImage("assets/watermelonwhole.png");
+    // }
 }
 
 
