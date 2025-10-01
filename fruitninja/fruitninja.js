@@ -1,8 +1,13 @@
 let dojoBG;
 
+
+
 function preload() {
     dojoBG = loadImage("assets/dojobackground.png");
 }
+
+
+
 
 
 function setup() {
@@ -11,7 +16,11 @@ function setup() {
 }
 
 
+
+
+
 function draw() {
     clear();
     image(dojoBG, 0, 0, width, height);
 }
+
