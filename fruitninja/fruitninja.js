@@ -42,4 +42,7 @@ function draw() {
 
 
 
+function spawnFruit() {
+    
+}
 
