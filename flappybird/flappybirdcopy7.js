@@ -93,7 +93,7 @@ function draw() {
         
 
         if(kb.presses("space") || mouse.presses()) {
-            bird.vel.y = -3;
+            bird.vel.y = -5;
             bird.sleeping = false;
             flapSound.play();
         } 
