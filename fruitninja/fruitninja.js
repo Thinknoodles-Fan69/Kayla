@@ -38,7 +38,7 @@ function draw() {
     image(dojoBG, 0, 0, width, height);
 
     if(frameCount % 120 === 0) {
-        let num = 420;
+        let num = 400;
         for(let i = 0; i < num; i++) {
             spawnFruit();
         }
