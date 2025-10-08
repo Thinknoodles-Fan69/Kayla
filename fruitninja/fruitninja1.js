@@ -109,9 +109,11 @@ function splitFruit(x, y, fruitData) {
     left.vel.x = -3;
     left.vel.y = random(-5, -2);
     left.rotationSpeed = -5;
+    
 
     let right = new fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.Sprite(x + 20, y, 40, 40);
     right.img = fruitData.half;
     right.vel.x = 3;
     right.vel.y = random(-5, -2);
+    left.rotationSpeed = 5;
 }
