@@ -55,7 +55,7 @@ function draw() {
         trail.color = "red";
         trail.life = 10;
 
-        splitFruit();
+        sliceFruit();
     }
 }
 
@@ -75,7 +75,7 @@ function spawnFruit() {
 
 }
 
-function splitFruit() {
+function sliceFruit() {
     for (let fruit of fruitGroup) {
         if (fruit.sliced) {
             continue;
