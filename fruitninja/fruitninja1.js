@@ -78,7 +78,7 @@ function splitFruit() {
             continue;
         }
 
-        let d = dist
-        
+        let d = dist(mouseX, mouse.y)
+
     }
 }
