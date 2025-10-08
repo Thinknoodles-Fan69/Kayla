@@ -104,5 +104,5 @@ function sliceFruit() {
 
 function splitFruit(x, y, fruitData) {
 
-    let left = new fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.Sprite(x - 20);
+    let left = new fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.Sprite(x - 20, y, 40, 40);
 }
