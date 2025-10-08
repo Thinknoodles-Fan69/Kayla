@@ -89,8 +89,6 @@ function splitFruit() {
             
 
 
-
-
             fruit.remove();
 
             break;
