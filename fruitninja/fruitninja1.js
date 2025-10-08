@@ -85,6 +85,12 @@ function splitFruit() {
 
         if (d < ((fruit.d / 2) + 5)) {
             fruit.sliced = true;
+
+            
+
+
+
+
             fruit.remove();
 
             break;
