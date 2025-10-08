@@ -1,7 +1,7 @@
 let dojoBG;
 let fruitGroup;
 let fruitTypes = [];
-let fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja = []
+let fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja;
 
 
 
