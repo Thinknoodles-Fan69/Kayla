@@ -30,6 +30,7 @@ function setup() {
     world.gravity.y = 10;
 
     fruitGroup = new Group(); 
+    fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja
 }
 
 
@@ -102,5 +103,5 @@ function sliceFruit() {
 }
 
 function splitFruit() {
-    
+
 }
