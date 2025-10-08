@@ -74,6 +74,10 @@ function spawnFruit() {
 
 function splitFruit() {
     for (let fruit of fruitGroup) {
-        if (fruit.sliced)
+        if (fruit.sliced) {
+            continue;
+        }
+
+        
     }
 }
