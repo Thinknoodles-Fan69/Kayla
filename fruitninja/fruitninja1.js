@@ -78,6 +78,7 @@ function splitFruit() {
             continue;
         }
 
+        let d = dist
         
     }
 }
