@@ -4,6 +4,7 @@ let fruitTypes = [];
 
 
 
+
 function preload() {
     dojoBG = loadImage("assets/dojobackground.png");
 
@@ -83,7 +84,7 @@ function splitFruit() {
         if (d < ((fruit.d / 2) + 5)) {
             fruit.sliced = true;
             fruit.remove();
-            
+
             break;
         }
 
