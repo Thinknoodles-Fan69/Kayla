@@ -91,7 +91,7 @@ function sliceFruit() {
 
             fruit.remove();
 
-            splitFruit
+            splitFruit(fx, fy, fruit.type);
 
 
 
