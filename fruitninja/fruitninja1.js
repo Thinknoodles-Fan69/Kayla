@@ -72,3 +72,6 @@ function spawnFruit() {
 
 }
 
+function splitFruit() {
+    
+}
