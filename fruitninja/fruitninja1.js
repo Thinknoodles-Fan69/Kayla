@@ -47,8 +47,8 @@ function draw() {
     if(gameState === 'start') {
         fill(0, 100);
         rect(0, 0, width, height);
-        
-    }
+        fill(255);
+        textAlign()    }
 
     if(frameCount % 120 === 0) {
         let num = random(3,6);
