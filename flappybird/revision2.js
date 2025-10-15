@@ -13,7 +13,7 @@ function preload() {
 function setup() {
 
     world.gravity.y = 10;
-    
+
     new Canvas(400, 600);
     flappybird = new Sprite();
     flappybird.img = flappybirdImg;
@@ -34,7 +34,10 @@ function setup() {
 }
 
 function draw(){
-
+    if (mouse.presses("left")) {
+    let x = new Sprite (mouseX, mouseY, 30, 30);
+    x.collider = "dynamic";
+  }
 }
 
 
