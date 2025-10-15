@@ -102,7 +102,7 @@ function sliceFruit() {
 
             splitFruit(fx, fy, fruit.type);
 
-            
+            score += 1
 
             break;
         }
