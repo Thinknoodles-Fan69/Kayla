@@ -37,8 +37,7 @@ function draw(){
     background(220)
 
     if (mouse.presses("left")) {
-    ball.vel.y = 
-    x.collider = "dynamic";
+    ball.vel.y = -2;
 
   }
 }
