@@ -34,7 +34,7 @@ function setup() {
 }
 
 function draw(){
-    background(220)
+    background(220);
 
     image(bg, 0, 0, width, height);
 
