@@ -44,7 +44,9 @@ function draw() {
     clear();
     image(dojoBG, 0, 0, width, height);
 
-    if()
+    if(gameState === 'start') {
+        
+    }
 
     if(frameCount % 120 === 0) {
         let num = random(3,6);
