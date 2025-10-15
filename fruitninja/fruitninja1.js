@@ -59,6 +59,9 @@ function draw() {
 
         sliceFruit();
     }
+
+
+    
 }
 
 
@@ -99,7 +102,7 @@ function sliceFruit() {
 
             break;
         }
-        
+
 
     }
 }
