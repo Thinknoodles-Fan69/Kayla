@@ -44,6 +44,8 @@ function draw() {
     clear();
     image(dojoBG, 0, 0, width, height);
 
+    if()
+
     if(frameCount % 120 === 0) {
         let num = random(3,6);
         for(let i = 0; i < num; i++) {
