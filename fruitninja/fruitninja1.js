@@ -53,7 +53,7 @@ function draw() {
 
 
     if(mouse.pressing()) {
-        let trail = new Sprite(mouse.x, mouse.y, 300, 300);
+        let trail = new Sprite(mouse.x, mouse.y, 7, 7);
         trail.collider = "none";
         trail.color = "red";
         trail.life = 10;
@@ -102,7 +102,7 @@ function sliceFruit() {
             continue;
         }
 
-        let d = dist(trail.x, trail.y, fruit.x, fruit.y);
+        let d = dist(mouse.x, mouse.y, fruit.x, fruit.y);
 
         if (d < ((fruit.d / 2) + 5)) {
             fruit.sliced = true;
