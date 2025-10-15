@@ -11,6 +11,8 @@ function preload() {
 }
 
 function setup() {
+
+    world.gravity.y = 
     new Canvas(400, 600);
     flappybird = new Sprite();
     flappybird.img = flappybirdImg;
