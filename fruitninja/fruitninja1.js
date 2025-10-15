@@ -53,6 +53,7 @@ function draw() {
         text("Fruit Ninja", width / 2, height / 2 - 40);
         textSize(24)
         text("Press Space or Click to Start", width / 2, height / 2 + 20);
+        
         return;
        }
 
