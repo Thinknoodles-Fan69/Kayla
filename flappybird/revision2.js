@@ -19,7 +19,7 @@ function setup() {
     // flappybird.img = flappybirdImg;
     
 
-    ball = new Sprite();
+    ball = new Sprite(                                                   );
     ball.x = 100;
     ball.y = 200;
     ball.diameter = 40;
