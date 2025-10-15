@@ -19,9 +19,9 @@ function setup() {
     ball = new Sprite();
     ball.x = 100;
     ball.y = 200;
-    ball.diameter = 100;
+    ball.diameter = 40;
     ball.color = "blue";
-    ball.vel.x = 3;
+    ball.vel.x = 0;
     ball.vel.y = 3;
     ball.bounciness = 2;
     ball.collider = "dynamic";
