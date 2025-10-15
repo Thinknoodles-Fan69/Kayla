@@ -60,7 +60,7 @@ function draw() {
         sliceFruit();
     }
 
-    stroke
+    stroke()
 
 }
 
