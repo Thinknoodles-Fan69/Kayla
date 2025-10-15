@@ -48,7 +48,8 @@ function draw() {
         fill(0, 180);
         rect(0, 0, width, height);
         fill(255);
-        textAlign(CENTER) 
+        textAlign(CENTER, CENTER);
+        textSize()
        }
 
     if(frameCount % 120 === 0) {
