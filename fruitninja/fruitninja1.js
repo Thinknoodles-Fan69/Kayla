@@ -76,7 +76,7 @@ function draw() {
         }
     }
 
-    text("")
+    text("Missed: " + missedFruits)
 
 }
 
