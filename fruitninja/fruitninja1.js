@@ -45,7 +45,7 @@ function draw() {
     image(dojoBG, 0, 0, width, height);
 
     if(gameState === 'start') {
-        fill(0, 100);
+        fill(0, 180);
         rect(0, 0, width, height);
         fill(255);
         textAlign(CENTER) 
