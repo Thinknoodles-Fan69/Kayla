@@ -3,6 +3,7 @@ let fruitGroup;
 let fruitTypes = [];
 let fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja;
 let score = 0;
+let Miss
 
 
 
