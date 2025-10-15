@@ -17,7 +17,7 @@ function setup() {
     new Canvas(400, 600);
     flappybird = new Sprite();
     flappybird.img = flappybirdImg;
-    image(bg, 0, 0, width, height);
+    
 
     ball = new Sprite();
     ball.x = 100;
@@ -35,6 +35,8 @@ function setup() {
 
 function draw(){
     background(220)
+
+    image(bg, 0, 0, width, height);
 
     if (mouse.presses("left")) {
     ball.vel.y = -2;
