@@ -46,7 +46,7 @@ function draw() {
 
     if(gameState === 'start') {
         fill(0, 100);
-        
+        rect()
     }
 
     if(frameCount % 120 === 0) {
