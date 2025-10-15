@@ -34,9 +34,12 @@ function setup() {
 }
 
 function draw(){
+    background(220)
+
     if (mouse.presses("left")) {
-    let x = new Sprite (mouseX, mouseY, 30, 30);
+    ball.vel.y = 
     x.collider = "dynamic";
+
   }
 }
 
