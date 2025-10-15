@@ -45,6 +45,7 @@ function draw() {
     image(dojoBG, 0, 0, width, height);
 
     if(gameState === 'start') {
+        fill(0, 100);
         
     }
 
