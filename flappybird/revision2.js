@@ -4,11 +4,11 @@
 // let flappybirdImg;
 let ball;
 
-// function preload() {
+function preload() {
 //     bg = loadImage("assets/background-day.png")
 //     flappybirdImg = loadImage("assets/yellowbird-midflap.png")
 
-// }
+}
 
 function setup() {
 
