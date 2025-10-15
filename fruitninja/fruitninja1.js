@@ -53,7 +53,7 @@ function draw() {
 
 
     if(mouse.pressing()) {
-        let trail = new Sprite(mouse.x, mouse.y, 300, 300);
+        let trail = new Sprite(mouse.x, mouse.y, 7, 7);
         trail.collider = "none";
         trail.color = "red";
         trail.life = 10;
