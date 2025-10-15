@@ -19,13 +19,13 @@ function setup() {
     // flappybird.img = flappybirdImg;
     
 
-    ball = new Sprite(                                                   );
-    ball.x = 100;
-    ball.y = 200;
-    ball.diameter = 40;
-    ball.color = "blue";
-    ball.vel.x = 0;
-    ball.vel.y = 3;
+    ball = new Sprite(200, 300, 40);
+    // ball.x = 100;
+    // ball.y = 200;
+    // ball.diameter = 40;
+    // ball.color = "blue";
+    // ball.vel.x = 0;
+    // ball.vel.y = 3;
     ball.bounciness = 2;
     ball.collider = "dynamic";
 
