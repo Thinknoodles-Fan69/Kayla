@@ -39,7 +39,7 @@ function draw(){
     image(bg, 0, 0, width, height);
 
     if (mouse.presses("left")) {
-    ball.vel.y = -100000;
+    ball.vel.y = -1000;
 
   }
 }
