@@ -4,6 +4,7 @@ let fruitTypes = [];
 let fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja;
 let score = 0;
 let missedFruits = 0;
+let gameState = 'start';
 
 
 
