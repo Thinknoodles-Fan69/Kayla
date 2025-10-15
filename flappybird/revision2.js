@@ -33,7 +33,7 @@ function setup() {
 
 }
 
-function draw(){
+function draw() {
     background(220);
 
     // image(bg, 0, 0, width, height);
