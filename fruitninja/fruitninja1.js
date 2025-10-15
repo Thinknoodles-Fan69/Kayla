@@ -50,7 +50,8 @@ function draw() {
         fill(255);
         textAlign(CENTER, CENTER);
         textSize(48);
-        text("Fruit Ninja", )
+        text("Fruit Ninja", width / 2, height / 2 - 40);
+        
        }
 
     if(frameCount % 120 === 0) {
