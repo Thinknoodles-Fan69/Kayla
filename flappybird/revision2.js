@@ -1,14 +1,14 @@
 // task 1
-let flappybird;
-let bg;
-let flappybirdImg;
+// let flappybird;
+// let bg;
+// let flappybirdImg;
 let ball;
 
-function preload() {
-    bg = loadImage("assets/background-day.png")
-    flappybirdImg = loadImage("assets/yellowbird-midflap.png")
+// function preload() {
+//     bg = loadImage("assets/background-day.png")
+//     flappybirdImg = loadImage("assets/yellowbird-midflap.png")
 
-}
+// }
 
 function setup() {
 
