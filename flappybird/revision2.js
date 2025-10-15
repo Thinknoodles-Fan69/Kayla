@@ -16,7 +16,15 @@ function setup() {
     flappybird.img = flappybirdImg;
     image(bg, 0, 0, width, height);
 
-    ball = new Sprite()
+ball = new Sprite();
+  ball.x = 100;
+  ball.y = 200;
+  ball.diameter = 100;
+  ball.color = "brown";
+  ball.vel.x = 3;
+  ball.vel.y = 3;
+  ball.bounciness = 2;
+  ball.collider = "dynamic";
 
 
 
