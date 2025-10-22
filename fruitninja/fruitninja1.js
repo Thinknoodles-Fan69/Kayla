@@ -44,7 +44,7 @@ function draw() {
     clear();
     image(dojoBG, 0, 0, width, height);
 
-    if (())
+    if ((kb.presses))
 
     if(gameState === 'start') {
         fill(0, 180);
