@@ -49,7 +49,7 @@ function draw() {
         score = 0;
         missedFruits = 0;
         fruitGroup.removeAll();
-        fruit
+        fruitHalves.removeAll();
     }
 
     if(gameState === 'start') {
