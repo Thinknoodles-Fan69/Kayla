@@ -56,6 +56,7 @@ function draw() {
         missedFruits = 0;
         fruitGroup.removeAll();
         fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.removeAll();
+        bgMusic
 
         gameStartTime = millis();
         gameTimer = 0; 
