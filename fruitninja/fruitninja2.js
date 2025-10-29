@@ -55,7 +55,7 @@ function draw() {
         fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.removeAll();
 
         gameStartTime = millis();
-        
+        gameTimer = 0; 
     }
 
     if(gameState === 'start') {
