@@ -116,6 +116,8 @@ function draw() {
         
     }
 
+    if(gameTimer )
+
 
     if(mouse.pressing()) {
         let trail = new Sprite(mouse.x, mouse.y, 7, 7);
