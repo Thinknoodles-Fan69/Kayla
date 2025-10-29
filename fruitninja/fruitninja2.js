@@ -58,6 +58,8 @@ function draw() {
         gameTimer = 0; 
     }
 
+    
+
     if(gameState === 'start') {
         fill(0, 180);
         rect(0, 0, width, height);
