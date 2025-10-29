@@ -120,9 +120,6 @@ function draw() {
         lastDifficultyIncrease = gameTimer;
     }
 
-    if(gameTimer <= 5) {
-        
-    }
 
     if(mouse.pressing()) {
         let trail = new Sprite(mouse.x, mouse.y, 7, 7);
