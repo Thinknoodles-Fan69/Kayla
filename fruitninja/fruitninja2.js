@@ -64,6 +64,8 @@ function draw() {
 
         gameStartTime = millis();
         gameTimer = 0; 
+
+        diffucultyNumFruits = 1;
     }
 
     if(gameTimer >= gameDuration) {
