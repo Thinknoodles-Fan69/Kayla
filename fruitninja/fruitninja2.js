@@ -174,8 +174,8 @@ function sliceFruit() {
             fruit.remove();
 
             splitFruit(fx, fy, fruit.type);
-            
-            flapSound.play();
+
+            sliceSound.play();
 
             score += 1
 
