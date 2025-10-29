@@ -116,7 +116,7 @@ function draw() {
         
     }
 
-    if(gameTimer )
+    if(gameTimer - lastDifficultyIncrease )
 
 
     if(mouse.pressing()) {
