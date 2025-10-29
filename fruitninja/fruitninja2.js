@@ -67,8 +67,9 @@ function draw() {
         rect(0, 0, width, height);
         fill(255, 0, 0);
         textAlign(CENTER, CENTER);
-        textSize(48)
-        text("Game Over!", width/2, )
+        textSize(48);
+        text("Game Over!", width/2, height/2 - 60);
+
     }
 
 
