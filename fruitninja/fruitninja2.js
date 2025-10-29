@@ -6,7 +6,8 @@ let score = 0;
 let missedFruits = 0;
 let gameState = 'start';
 let gameStartTime = 0;
-let 
+let gameTimer = 0;
+
 
 
 
