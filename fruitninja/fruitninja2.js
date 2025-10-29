@@ -110,7 +110,7 @@ function draw() {
 
     if(frameCount % 120 === 0) {
         let num = random(2,6);
-        for(let i = 0; i < num; i++) {
+        for(let i = 0; i < diffucultyNumFruits; i++) {
             spawnFruit();
         }
         
