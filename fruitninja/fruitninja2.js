@@ -11,7 +11,6 @@ let gameDuration = 60;
 
 
 
-
 function preload() {
     dojoBG = loadImage("assets/dojobackground.png");
 
