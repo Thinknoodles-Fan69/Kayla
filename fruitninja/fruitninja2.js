@@ -62,7 +62,9 @@ function draw() {
         gameState = "gameover";
     }
 
-    if(gameState = "gameover")
+    if(gameState = "gameover") {
+        fill(0, 180)
+    }
 
 
 
