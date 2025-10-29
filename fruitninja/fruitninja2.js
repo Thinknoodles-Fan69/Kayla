@@ -5,6 +5,7 @@ let fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsC
 let score = 0;
 let missedFruits = 0;
 let gameState = 'start';
+let gameSta
 
 
 
