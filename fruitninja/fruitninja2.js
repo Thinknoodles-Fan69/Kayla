@@ -115,9 +115,13 @@ function draw() {
         
     }
 
-    if(gameTimer - lastDifficultyIncrease >= 15){
+    if(gameTimer - lastDifficultyIncrease >= 15) {
         diffucultyNumFruits += 1;
         lastDifficultyIncrease = gameTimer;
+    }
+
+    if(gameTImer <= 5) {
+
     }
 
 
