@@ -90,7 +90,7 @@ function draw() {
         fill(255);
         textAlign(CENTER, CENTER);
         textSize(48);
-        text("Fruit Ninja", width / 2, height / 2 - 40);
+        text("DEAF PEOPLE Fruit Ninja", width / 2, height / 2 - 40);
         textSize(24)
         text("Press Space or Click to Start", width / 2, height / 2 + 20);
         
