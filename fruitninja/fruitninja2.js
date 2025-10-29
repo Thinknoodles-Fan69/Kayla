@@ -113,6 +113,12 @@ function draw() {
             spawnFruit();
         }
         
+        if(gameTimer <= 5) {
+        for(let i = 0; i < 50; i++) {
+            spawnFruit();
+        }
+    }
+        
     }
 
     if(gameTimer - lastDifficultyIncrease >= 15) {
@@ -120,11 +126,7 @@ function draw() {
         lastDifficultyIncrease = gameTimer;
     }
 
-    if(gameTimer <= 5) {
-        for(let i = 0; i < 50; i++) {
-            spawnFruit();
-        }
-    }
+    
 
 
     if(mouse.pressing()) {
