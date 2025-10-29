@@ -113,11 +113,7 @@ function draw() {
             spawnFruit();
         }
 
-        if(gameTimer >= 55) {
-        for(let i = 0; i < 50; i++) {
-            spawnFruit();
-        }
-    }
+        
 
     }
 
