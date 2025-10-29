@@ -66,7 +66,7 @@ function draw() {
        }
 
     if(frameCount % 120 === 0) {
-        let num = random(3,6);
+        let num = 200;
         for(let i = 0; i < num; i++) {
             spawnFruit();
         }
