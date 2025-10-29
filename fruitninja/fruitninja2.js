@@ -8,6 +8,7 @@ let gameState = 'start';
 let gameStartTime = 0;
 let gameTimer = 0;
 let gameDuration = 60;
+let 
 
 
 
@@ -93,7 +94,7 @@ function draw() {
         text("Fruit Ninja", width / 2, height / 2 - 40);
         textSize(24)
         text("Press Space or Click to Start", width / 2, height / 2 + 20);
-                
+
         return;
        }
 
