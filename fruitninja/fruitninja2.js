@@ -34,7 +34,7 @@ function preload() {
 function setup() {
     new Canvas(800, 600);
     world.gravity.y = 10;
-    
+
     fruitGroup = new Group(); 
     fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja = new Group();
 }
@@ -53,6 +53,9 @@ function draw() {
         missedFruits = 0;
         fruitGroup.removeAll();
         fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.removeAll();
+
+        gameStartTime = millis();
+        
     }
 
     if(gameState === 'start') {
