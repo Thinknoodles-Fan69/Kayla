@@ -109,7 +109,7 @@ function draw() {
 
     gameTimer = floor((millis() - gameStartTime) / 1000);
 
-    text("Time: " + ())
+    text("Time: " + (gameDuration - gameTimer), )
 }
 
 
