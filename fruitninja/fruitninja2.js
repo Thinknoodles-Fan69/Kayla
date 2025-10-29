@@ -73,7 +73,7 @@ function draw() {
         fill(255);
         text("Score: " + score, width/2, height/2);
         text("Missed Fruit: " + missedFruits, width/2, height/2 + 40);
-        text("Press SPACE or CLICK")
+        text("Press SPACE or CLICK to Restart")
 
     }
 
