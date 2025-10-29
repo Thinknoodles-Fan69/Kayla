@@ -120,8 +120,8 @@ function draw() {
         lastDifficultyIncrease = gameTimer;
     }
 
-    if(gameTImer <= 5) {
-
+    if(gameTimer <= 5) {
+        
     }
 
 
