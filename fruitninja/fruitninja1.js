@@ -49,7 +49,7 @@ function draw() {
         score = 0;
         missedFruits = 0;
         fruitGroup.removeAll();
-        fruitHalves.removeAll();
+        fruitsThatAreCutIntoHalfBecauseWeUsedTheMouseToCutTheFruitsBecauseTheGameIsCalledFruitNinja.removeAll();
     }
 
     if(gameState === 'start') {
