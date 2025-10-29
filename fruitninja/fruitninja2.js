@@ -62,7 +62,7 @@ function draw() {
         gameState = "gameover";
     }
 
-    
+    if(gameState = "gameover")
 
 
 
