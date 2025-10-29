@@ -58,7 +58,12 @@ function draw() {
         gameTimer = 0; 
     }
 
-    if(gameTimer >= gameDuration)
+    if(gameTimer >= gameDuration) {
+        
+    }
+
+
+
 
     if(gameState === 'start') {
         fill(0, 180);
