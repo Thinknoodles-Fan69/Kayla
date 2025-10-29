@@ -14,6 +14,7 @@ let sliceSound, bgMusic;
 
 function preload() {
     dojoBG = loadImage("assets/dojobackground.png");
+    sliceSound = 
 
     let peach = {
         whole: loadImage("assets/peachwhole.png"),
