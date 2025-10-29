@@ -14,6 +14,7 @@ let lastDifficultyIncrease = 0;
 
 
 
+
 function preload() {
     dojoBG = loadImage("assets/dojobackground.png");
     sliceSound = createAudio("assets/fruit-ninja-combo.mp3")
