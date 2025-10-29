@@ -10,7 +10,7 @@ let gameTimer = 0;
 let gameDuration = 60;
 let sliceSound, bgMusic;
 let diffucultyNumFruits = 1;
-
+let lastDifficulty
 
 
 
