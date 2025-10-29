@@ -107,7 +107,7 @@ function draw() {
     text("Missed: " + missedFruits, 200, 10);
 
 
-    gameTimer = floor(())
+    gameTimer = floor((millis() - ))
 }
 
 
