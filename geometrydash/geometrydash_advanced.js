@@ -4,13 +4,14 @@ let playerSize = 30;
 let velocity = 0;
 let isGrounded = false;
 
+let 
 function setup() {
     createCanvas(600, 400);
     textAlign(CENTER, CENTER);
     playerY = height - playerSize;
 
     for(let i = 0; i < 3; i++) {
-        spikesX.push(width + i * 300)
+        spikesX.push(width + i * 300);
     }
 }
 
