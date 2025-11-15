@@ -50,7 +50,7 @@ function draw() {
     rect(playerX, playerY, playerSize, playerSize);
 
 
-    
+    fill()
 }
 
 function keyPressed() {
