@@ -58,9 +58,11 @@ function draw() {
             spikes[i] = width + random(100, 300);
 
         }
+
+        triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, height - spikeHeight, height);
     }
 
-    triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, height - spikeHeight, height);
+    
 }
 
 function keyPressed() {
