@@ -9,7 +9,7 @@ let spikeWidth = 20;
 let spikeHeight = 30;
 let spikeSpeed = 5;
 
-
+let gameover = false;
 
 
 
