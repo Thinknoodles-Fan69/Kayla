@@ -31,6 +31,9 @@ function draw() {
         isGrounded = false;
 
     }
+    
+    fill(255, 0, 0);
+    rect(playerX, playerY, playerSize, playerSize);
 }
 
 function keyPressed() {
