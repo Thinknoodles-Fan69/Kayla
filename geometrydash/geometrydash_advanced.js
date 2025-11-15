@@ -16,6 +16,7 @@ function draw() {
     velocity += 0.8;
     console.log(velocity)
     playerY += velocity;
+    console.log
 
     
 
