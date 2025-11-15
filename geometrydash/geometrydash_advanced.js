@@ -32,3 +32,7 @@ function draw() {
         playerY += velocity;
     }
 }
+
+function keyPressed() {
+    if(key === " " && isGrounded) 
+}
