@@ -27,7 +27,7 @@ function draw() {
     background(255);
 
     if(!gameover) {
-            velocity += 0.8;
+        velocity += 0.8;
         console.log(velocity)
         playerY += velocity;
         console.log(playerY)
