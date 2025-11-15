@@ -55,7 +55,7 @@ function draw() {
         spikesX[i] -= spikeSpeed;
 
         if(spikesX[i] < -spikeWidth) {
-            spikes[i] = width + random(100, 300);
+            spikesX[i] = width + random(100, 300);
 
         }
 
