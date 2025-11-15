@@ -48,6 +48,9 @@ function draw() {
 
     fill(255, 0, 0);
     rect(playerX, playerY, playerSize, playerSize);
+
+
+    
 }
 
 function keyPressed() {
