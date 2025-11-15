@@ -64,6 +64,8 @@ function draw() {
         }
 
     
+    } else {
+        
     }
 
 
