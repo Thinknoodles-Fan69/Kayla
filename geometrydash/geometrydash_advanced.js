@@ -16,9 +16,6 @@ function draw() {
     fill(255, 0, 0);
     rect(playerX, playerY, playerSize, playerSize);
 
-    velocity += 0.01;
-    console.log(velocity)
-    playerY += velocity;
 
     if(playerY >= height - playerSize) {
         playerY >= height - playerSize
@@ -29,5 +26,9 @@ function draw() {
     } else {
 
         isGrounded = false;
+
+        velocity += 0.01;
+        console.log(velocity)
+        playerY += velocity;
     }
 }
