@@ -26,7 +26,8 @@ function setup() {
 function draw() {
     background(255);
 
-    velocity += 0.8;
+    if(!gameover) {
+            velocity += 0.8;
     console.log(velocity)
     playerY += velocity;
     console.log(playerY)
@@ -63,6 +64,9 @@ function draw() {
     }
 
     
+    }
+
+
 }
 
 function keyPressed() {
