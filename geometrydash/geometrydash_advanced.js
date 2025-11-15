@@ -59,7 +59,7 @@ function draw() {
 
         }
 
-        triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, height - spikeHeight, height);
+        triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, spike- spikeHeight, height);
     }
 
     
