@@ -17,4 +17,5 @@ function draw() {
     rect(playerX, playerY, playerSize, playerSize);
 
     velocity += 0.8;
+    console
 }
