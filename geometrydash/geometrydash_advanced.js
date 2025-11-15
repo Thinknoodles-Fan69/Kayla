@@ -14,5 +14,5 @@ function draw() {
     background(255);
 
     fill(255, 0, 0);
-    rect(playerX, playerY, playerSize, PlayerSize);
+    rect(playerX, playerY, playerSize, playerSize);
 }
