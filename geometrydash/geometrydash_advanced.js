@@ -60,7 +60,7 @@ function draw() {
         }
     }
 
-    triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, height - spike)
+    triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, height - spikeHeight, height);
 }
 
 function keyPressed() {
