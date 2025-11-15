@@ -3,3 +3,11 @@ let playerY = 0;
 let playerSize = 30;
 let velocity = 0;
 let isGrounded = false;
+
+function setup() {
+
+}
+
+function draw() {
+    
+}
