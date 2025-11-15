@@ -27,9 +27,7 @@ function draw() {
 
         isGrounded = false;
 
-        velocity += 0.01;
-        console.log(velocity)
-        playerY += velocity;
+        
     }
 }
 
