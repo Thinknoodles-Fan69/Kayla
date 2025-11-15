@@ -61,6 +61,11 @@ function draw() {
             }
 
             triangle(spikesX[i], height, spikesX[i] + spikeWidth / 2, height - spikeHeight, spikesX[i] + spikeHeight, height);
+
+
+            if(playerX + playerSize > spikesX[i] && playerX < spikesX[i] + width && playerY + playerSize > height - spikeHeight) {
+                
+            }
         }
 
     
