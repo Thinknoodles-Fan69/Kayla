@@ -20,5 +20,7 @@ function draw() {
     console.log(velocity)
     playerY += velocity;
 
-    
+    if(playerY >= height - playerSize) {
+        
+    }
 }
