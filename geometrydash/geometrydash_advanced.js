@@ -9,7 +9,9 @@ function setup() {
     textAlign(CENTER, CENTER);
     playerY = height - playerSize;
 
-    for(let i = 0; i < 3; i++) {}
+    for(let i = 0; i < 3; i++) {
+        spi
+    }
 }
 
 function draw() {
