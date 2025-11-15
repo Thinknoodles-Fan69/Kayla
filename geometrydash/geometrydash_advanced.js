@@ -6,7 +6,7 @@ let isGrounded = false;
 
 let spikesX = [];
 let spikeWidth = 20;
-let spikeLength = 30;
+let spikeHeight = 30;
 let spikeSpeed = 5;
 
 
