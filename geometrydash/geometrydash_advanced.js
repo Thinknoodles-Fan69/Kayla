@@ -28,27 +28,27 @@ function draw() {
 
     if(!gameover) {
             velocity += 0.8;
-    console.log(velocity)
-    playerY += velocity;
-    console.log(playerY)
+        console.log(velocity)
+        playerY += velocity;
+        console.log(playerY)
 
     
 
 
-    if(playerY >= height - playerSize) {
+        if(playerY >= height - playerSize) {
         
-        playerY      = height - playerSize
-        isGrounded = true;
-        velocity = 0;
+            playerY      = height - playerSize
+            isGrounded = true;
+            velocity = 0;
 
-    } else {
+        } else {
 
-        isGrounded = false;
+            isGrounded = false;
 
-    }
+        }
 
-    fill(0, 255, 0);
-    rect(playerX, playerY, playerSize, playerSize);
+        fill(0, 255, 0);
+        rect(playerX, playerY, playerSize, playerSize);
 
 
     fill(255, 0, 0);
