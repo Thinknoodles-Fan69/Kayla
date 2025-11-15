@@ -56,9 +56,11 @@ function draw() {
 
         if(spikesX[i] < -spikeWidth) {
             spikes[i] = width + random(100, 300);
-            
+
         }
     }
+
+    triangle
 }
 
 function keyPressed() {
