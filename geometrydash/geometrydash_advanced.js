@@ -13,7 +13,7 @@ function setup() {
 function draw() {
     background(255);
 
-    velocity += 0.8;
+    velocity += 0.01;
     console.log(velocity)
     playerY += velocity;
     console.log(playerY)
