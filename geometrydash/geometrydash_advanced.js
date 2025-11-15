@@ -16,7 +16,7 @@ function draw() {
     fill(255, 0, 0);
     rect(playerX, playerY, playerSize, playerSize);
 
-    velocity += 0.001;
+    velocity += 0.8;
     console.log(velocity)
     playerY += velocity;
 
