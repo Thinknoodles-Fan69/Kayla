@@ -60,7 +60,7 @@ function draw() {
         }
     }
 
-    triangle
+    triangle(spikesX[i])
 }
 
 function keyPressed() {
